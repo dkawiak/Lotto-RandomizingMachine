@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555007320 source:c:\users\admin\desktop\kurs programowania\5. totolotek\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+
+1555003720 source:c:\users\admin\documents\kurs programowania\mój w³asny kod c++\5. totolotek\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+
